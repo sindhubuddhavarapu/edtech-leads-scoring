@@ -1,4 +1,4 @@
-# edtech-leads-scoring
+# edtech-leads-scoring -- Logistic Regression
 ## OBJECTIVE
 EdTech Leads Scoring Analysis project aimed at identifying high-potential leads.
 
